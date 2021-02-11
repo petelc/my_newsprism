@@ -1,0 +1,8 @@
+node_modules/
+.next
+*.env*
+docs/
+test/
+*.DS_Store*
+package-lock.json
+prisma/migrations/
